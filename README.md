@@ -3,9 +3,9 @@
 Streams process (read or write) the data piece by piece (chunks) without completing the whole read or write operation and therefore without keeping all the data in memory.
 
 # References
-https://nodejs.org/api/stream.html 
-https://www.youtube.com/watch?v=Bz0EkaH4S7Y
-https://www.youtube.com/watch?v=FS2OWxS5P_E
+1. https://nodejs.org/api/stream.html 
+2. https://www.youtube.com/watch?v=Bz0EkaH4S7Y
+3. https://www.youtube.com/watch?v=FS2OWxS5P_E
 
 # Steps
 
